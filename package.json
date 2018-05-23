@@ -1,0 +1,12 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "Node REST api",
+  "main": "index.js",
+  "author": "yago",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.4"
+  }
+}
